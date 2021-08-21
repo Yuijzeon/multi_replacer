@@ -1,0 +1,23 @@
+D:\Project\Replacer\Replacer\obj\Debug\Replacer.csprojResolveAssemblyReference.cache
+D:\Project\Replacer\Replacer\obj\Debug\Replacer.FormMain.resources
+D:\Project\Replacer\Replacer\obj\Debug\Replacer.Properties.Resources.resources
+D:\Project\Replacer\Replacer\obj\Debug\Replacer.csproj.GenerateResource.Cache
+D:\Project\Replacer\Replacer\obj\Debug\Replacer.csproj.CoreCompileInputs.cache
+D:\Project\Replacer\Replacer\bin\Debug\Replacer.exe
+D:\Project\Replacer\Replacer\bin\Debug\Replacer.pdb
+D:\Project\Replacer\Replacer\obj\Debug\Replacer.exe
+D:\Project\Replacer\Replacer\obj\Debug\Replacer.pdb
+D:\Project\Replacer\Replacer\obj\Debug\Replacer.FormReplace.resources
+B:\待上傳至 Google 雲端硬碟\Project\My Code\Replacer\Replacer\obj\Debug\Replacer.exe
+B:\待上傳至 Google 雲端硬碟\Project\My Code\Replacer\Replacer\obj\Debug\Replacer.pdb
+C:\Users\YUIJUHN\新增資料夾\Replacer\Replacer\bin\Debug\Replacer.exe.config
+C:\Users\YUIJUHN\新增資料夾\Replacer\Replacer\bin\Debug\Replacer.exe
+C:\Users\YUIJUHN\新增資料夾\Replacer\Replacer\bin\Debug\Replacer.pdb
+C:\Users\YUIJUHN\新增資料夾\Replacer\Replacer\obj\Debug\Replacer.csproj.AssemblyReference.cache
+C:\Users\YUIJUHN\新增資料夾\Replacer\Replacer\obj\Debug\Replacer.FormMain.resources
+C:\Users\YUIJUHN\新增資料夾\Replacer\Replacer\obj\Debug\Replacer.FormReplace.resources
+C:\Users\YUIJUHN\新增資料夾\Replacer\Replacer\obj\Debug\Replacer.Properties.Resources.resources
+C:\Users\YUIJUHN\新增資料夾\Replacer\Replacer\obj\Debug\Replacer.csproj.GenerateResource.cache
+C:\Users\YUIJUHN\新增資料夾\Replacer\Replacer\obj\Debug\Replacer.csproj.CoreCompileInputs.cache
+C:\Users\YUIJUHN\新增資料夾\Replacer\Replacer\obj\Debug\Replacer.exe
+C:\Users\YUIJUHN\新增資料夾\Replacer\Replacer\obj\Debug\Replacer.pdb

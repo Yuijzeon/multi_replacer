@@ -1,9 +1,0 @@
-D:\Project\Replacer\Replacer\obj\Debug\Replacer.csprojResolveAssemblyReference.cache
-D:\Project\Replacer\Replacer\obj\Debug\Replacer.FormMain.resources
-D:\Project\Replacer\Replacer\obj\Debug\Replacer.Properties.Resources.resources
-D:\Project\Replacer\Replacer\obj\Debug\Replacer.csproj.GenerateResource.Cache
-D:\Project\Replacer\Replacer\obj\Debug\Replacer.csproj.CoreCompileInputs.cache
-D:\Project\Replacer\Replacer\bin\Debug\Replacer.exe
-D:\Project\Replacer\Replacer\bin\Debug\Replacer.pdb
-D:\Project\Replacer\Replacer\obj\Debug\Replacer.exe
-D:\Project\Replacer\Replacer\obj\Debug\Replacer.pdb
