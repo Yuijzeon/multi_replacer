@@ -1,0 +1,13 @@
+D:\Project\UTAUotoReplacer\UTAUotoReplacer\obj\Debug\UTAUotoReplacer.csprojResolveAssemblyReference.cache
+D:\Project\UTAUotoReplacer\UTAUotoReplacer\obj\Debug\UTAUotoReplacer.FormMain.resources
+D:\Project\UTAUotoReplacer\UTAUotoReplacer\obj\Debug\UTAUotoReplacer.Properties.Resources.resources
+D:\Project\UTAUotoReplacer\UTAUotoReplacer\obj\Debug\UTAUotoReplacer.csproj.GenerateResource.Cache
+D:\Project\UTAUotoReplacer\UTAUotoReplacer\obj\Debug\UTAUotoReplacer.csproj.CoreCompileInputs.cache
+D:\Project\UTAUotoReplacer\UTAUotoReplacer\bin\Debug\UTAUotoReplacer.exe
+D:\Project\UTAUotoReplacer\UTAUotoReplacer\bin\Debug\UTAUotoReplacer.pdb
+D:\Project\UTAUotoReplacer\UTAUotoReplacer\obj\Debug\UTAUotoReplacer.exe
+D:\Project\UTAUotoReplacer\UTAUotoReplacer\obj\Debug\UTAUotoReplacer.pdb
+D:\Project\UTAUotoReplacer\UTAUotoReplacer\bin\Debug\UTAUotoReplacer.exe.manifest
+D:\Project\UTAUotoReplacer\UTAUotoReplacer\bin\Debug\UTAUotoReplacer.application
+D:\Project\UTAUotoReplacer\UTAUotoReplacer\obj\Debug\UTAUotoReplacer.exe.manifest
+D:\Project\UTAUotoReplacer\UTAUotoReplacer\obj\Debug\UTAUotoReplacer.application
