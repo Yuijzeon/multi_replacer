@@ -1,7 +1,6 @@
 # Multi-Replacer
 A tiny program for replace.
 Used to replace text in batches.
-Replacement items sorted by string length.
 
 ![image](https://github.com/Yuijzeon/multi_replacer/blob/master/replacer.png)
 
